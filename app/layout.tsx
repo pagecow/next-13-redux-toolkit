@@ -1,6 +1,6 @@
 import './globals.css'
 
-import { Providers } from './Store/provider';
+import { Providers } from './GlobalRedux/provider';
 
 export default function RootLayout({
   children,
